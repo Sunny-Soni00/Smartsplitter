@@ -1,7 +1,9 @@
-**SplitSmart Expense Splitter**
+**SplitSmartCLI**
+
 A command-line Python app to help groups of friends manage shared expenses and settle balances, supporting equal, unequal, and percentage-based splits.
 
 **Features**
+
 Add users and groups
 
 Record expenses with flexible split options
@@ -15,19 +17,17 @@ Save/load data as JSON
 Easy-to-use CLI menu
 
 **Getting Started**
+
 Clone the repository and ensure Python is installed.
 
-Run the main app file:
+Run the main app file: go to Smartsplit folder
 
-text
-python SplitSmartApp.py
-File Structure
+python Smartsplit/SplitSmartApp.py
+
+**File Structure**
+
 User.py
-
 Expense.py
-
 Debt.py
-
 Group.py
-
 SplitSmartApp.py
