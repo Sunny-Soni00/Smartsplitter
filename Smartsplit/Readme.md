@@ -22,7 +22,7 @@ Clone the repository and ensure Python is installed.
 
 Run the main app file: go to Smartsplit folder
 
-python Smartsplit/SplitSmartApp.py
+python Smartsplit/SplitSmartCLI.py
 
 **File Structure**
 
@@ -30,4 +30,4 @@ User.py
 Expense.py
 Debt.py
 Group.py
-SplitSmartApp.py
+SplitSmartCLI.py
